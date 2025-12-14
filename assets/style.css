@@ -1,8 +1,8 @@
 :root{
   --bg:#51543E;
   --card:#0b1220;
-  --muted:#9aa4b2;
-  --accent:#38bdf8;
+  --muted:#51543E;
+  --accent:#51543E;
   --text:#e6eef8;
 }
 *{box-sizing:border-box}
