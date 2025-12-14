@@ -1,4 +1,3 @@
-<meta name="description" content="Government of Len - Homepage">
 ---
 layout: default
 title: Home
