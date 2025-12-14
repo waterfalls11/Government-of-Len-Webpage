@@ -1,3 +1,6 @@
 title: Government of Len
 theme: minima
-plugins: [jekyll-feed]
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
