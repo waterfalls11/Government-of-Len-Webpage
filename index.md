@@ -3,7 +3,7 @@ layout: home
 title: Welcome
 ---
 <header>
-  <h1>🇦🇷 The Sovereign State of Something</h1>
+  <h1>Government of Len</h1>
   <nav>
     <a href="/">Home</a>
     <a href="/about.html">About</a>
