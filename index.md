@@ -5,12 +5,12 @@ title: Home
 
 <div class="card profile">
   <div>
-    <div class="avatar" aria-hidden="false"></div>
+    <div class="avatar" aria-hidden="true"></div>
   </div>
   <div>
     <h1>Welcome</h1>
     <p class="muted">A simple, easy-to-maintain GitHub Pages site. Clean layout, solid colors, rounded corners, and a subtle glass effect where supported.</p>
-    <p>Use the navigation above to explore. I can add a blog, projects section, or portfolio pages — tell me which you'd like next.</p>
+    <p>placeholder</p>
   </div>
 </div>
 
