@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-permalink: /
+permalink: /cabinet
 ---
 
 # Responsibilities of The Cabinet 
