@@ -1,7 +1,3 @@
----
-layout: home
-title: Welcome
----
 <header>
   <h1>Government of Len</h1>
   <nav>
