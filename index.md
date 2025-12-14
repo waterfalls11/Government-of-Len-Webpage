@@ -11,3 +11,4 @@ We are a totally legit micronation with:
 - A website (definitely)
 
 This website is official and serious.
+<link rel="stylesheet" href="/assets/style.css">
