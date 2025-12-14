@@ -11,6 +11,7 @@
 
 ## Welcome to the Government of Len webpage!
 
-This is a **WIP**
+This is a webpage is a *WIP*, so not everything will be finished just yet.
+Thank you for your patience!
 
 <link rel="stylesheet" href="/assets/style.css">
