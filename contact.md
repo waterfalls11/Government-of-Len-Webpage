@@ -4,5 +4,12 @@ title: Contact
 permalink: /contact/
 ---
 
-placeholder
+# Contact us via these methods: 
+
+## Phone Number
++17087302397
+
+## Email
+generalmail@govlen.gay
+
 
