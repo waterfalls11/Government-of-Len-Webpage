@@ -5,10 +5,11 @@ permalink: /
 ---
 
 
-# The Government of Len is here to ensure your wellbeing and safety.
+# The Government of Len is here to ensure the well-being and safety of its citizens.
 
-## Important Information
-The Government of Len has undergone a restructing after a new constitution was ratified. This has nullified previous legislation, and a new structure has been formed. A new page will be made to better explain changes soon.
+## Information
+The Government of Len has undergone a restructuring following the ratification of a new Constitution. The updated Constitution has become the supreme law of Len, and a revised governmental structure is in effect. A new page explaining these changes will be published soon.
 
-The Government of Len is in the process of finishing this website. Information may not be complete in some places.
-Visit your provincial or territorial government's website to discover services and programs available locally.
+We are still in the process of completing this website, so some information may not be complete.
+
+Visit your provincial or territorial government's website to find services and programs available to you.
