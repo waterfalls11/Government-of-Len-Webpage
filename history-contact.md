@@ -1,5 +1,5 @@
 ---
 layout: history
 title: Contact
-permalink: /history-contact
+permalink: /history-contact/
 ---
