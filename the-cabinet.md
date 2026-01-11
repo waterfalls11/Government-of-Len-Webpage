@@ -12,11 +12,11 @@ The Cabinet is responsible for managing the operations of the government and its
 
 ## Cabinet Members
 
-Prime Minister |
-Vice Prime Minister | 
+Prime Minister | Forest Vanderveen
+Vice Prime Minister | Debra Hawes
 
-High Court Justice |
-High Court Justice | 
+High Court Justice | Richard Vanderveen
+High Court Justice | Jacquline Vanderveen
 
 Civil Court Justice |
 Civil Court Justice |
