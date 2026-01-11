@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Ministries
-permalink: /ministries
+permalink: /ministries/
 ---
