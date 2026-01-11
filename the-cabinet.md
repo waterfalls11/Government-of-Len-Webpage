@@ -12,11 +12,12 @@ The Cabinet is responsible for managing the operations of the government and its
 
 ## Cabinet Members
 
-Honorable Forest Vanderveen | Prime Minister
-Honorable Debra Hawes | Vice Prime Minister
-Honorable Richard Vanderveen | High Court Justice
-Honorable Jacquline Vanderveen | High Court Justice
-Honorable --- | Judicial Court Justice
-Honorable --- | Judicial Court Justice
-Honorable --- | Judicial Court Justice
-Honorable Liam Koseck | Provincial Governor of the Allied Territories of Oakley and Pibbles
+Prime Minister |
+Vice Prime Minister | 
+
+High Court Justice |
+High Court Justice | 
+
+Civil Court Justice |
+Civil Court Justice |
+Civil Court Justice |
