@@ -33,12 +33,4 @@ Keep pets indoors as much as possible.
 
 Check in on older family, friends, and neighbors often.
 
-ADDITIONAL INFORMATION: 
-
-All local public school districts have canceled school, or switched to virtual learning. 
-
-These districts are Joliet 86, Joliet Township High School 204, New Lenox School District NLSD 122, Lincoln Way Community High School 210.
-
-Joliet Junior College is operating virtually.
-
 Government of Len | Office of the Prime Minister
