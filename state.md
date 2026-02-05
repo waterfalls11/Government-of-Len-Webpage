@@ -1,3 +1,8 @@
+---
+layout: state
+title: Ministry of State
+permalink: /state/
+---
 # Ministry of State
 The Ministry of State is repsponsible for diplomatic relations, global appearance, consular services, passports and visas, and recordinh national and international legislation pertaining to Len.
 Any request for ID or Passport shall be directed to the Ministry of State. 
