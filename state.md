@@ -14,4 +14,5 @@ You can find ID request forms on the doccumentation page. Passports are planned,
 
 
 The Ministry of State is required to doccument laws and make them publicly accessable. You can find all non-classified legislation on the legislation tab. 
-Disclaimer: The legislation on this webpage may not be up-to-date.
+
+Disclaimer: The legislation on this site may not be up-to-date.
