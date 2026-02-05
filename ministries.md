@@ -7,3 +7,4 @@ permalink: /ministries/
 ## Visit each ministry's site:
 
 [Ministry of History](https://govlen.gay/history/)
+[Ministry of State](https://govlen.gay/state/)
