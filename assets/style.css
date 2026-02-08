@@ -4,6 +4,7 @@
   --surface: rgba(255,255,255,0.04);
   --surface-border: rgba(255,255,255,0.06);
   --text: #FFFFFF;
+  --muted: rgba(255,255,255,0.72);
   --accent: #FFFFFF;
 
   --radius: 12px;
@@ -23,11 +24,40 @@ body {
 }
 .container { max-width: var(--container-width); margin: 0 auto; padding: 28px }
 
-.site-header { padding: 18px 0; border-bottom: 1px solid rgba(255,255,255,0.03) }
+.site-header {
+  padding: 12px 0;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+  background: linear-gradient(180deg, rgba(255,255,255,0.05), rgba(255,255,255,0));
+}
+.site-header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
 .brand { font-weight: 700; color: var(--accent); text-decoration: none; font-size: 1.125rem }
-.main-nav { float: right }
-.main-nav a { color: var(--muted); text-decoration: none; margin-left: 18px; padding: 6px 8px; border-radius: 8px }
-.main-nav a:hover { color: var(--text); background: rgba(255,255,255,0.02) }
+.main-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.main-nav a {
+  display: inline-flex;
+  align-items: center;
+  color: var(--muted);
+  text-decoration: none;
+  padding: 8px 12px;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  background: rgba(255,255,255,0.04);
+  transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+.main-nav a:hover {
+  color: var(--text);
+  background: rgba(255,255,255,0.1);
+  border-color: rgba(255,255,255,0.2);
+}
 
 .rss-banner {
   border-left: 6px solid #ffcc00; /* yellow border, can switch to red */
@@ -58,7 +88,23 @@ a { color: var(--accent) }
 .site-footer { border-top: 1px solid rgba(255,255,255,0.03); padding: 20px 0; margin-top: 36px; color: var(--muted); font-size: 0.95rem }
 
 @media (max-width: 640px) {
-  .main-nav { float: none; margin-top: 12px }
+  .site-header .container { align-items: flex-start }
+  .main-nav {
+    width: 100%;
+    margin-top: 10px;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 10px;
+    border-radius: 12px;
+    background: rgba(0,0,0,0.18);
+    border: 1px solid rgba(255,255,255,0.08);
+  }
+  .main-nav a {
+    width: 100%;
+    justify-content: space-between;
+    border-radius: 10px;
+    background: rgba(255,255,255,0.06);
+  }
   .profile { flex-direction: column; align-items: flex-start }
   .avatar { width: 72px; height: 72px }
   .container { padding: 18px }
