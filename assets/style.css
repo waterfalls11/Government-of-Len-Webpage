@@ -1,28 +1,32 @@
 :root{
-  --bg: #51543E;
-  --surface: rgba(255,255,255,0.06);
-  --surface-muted: rgba(255,255,255,0.04);
-  --surface-border: rgba(255,255,255,0.14);
-  --text: #ffffff;
-  --muted: rgba(255,255,255,0.78);
-  --accent: #f3f0d7;
-  --accent-strong: #ffffff;
+  --bg: #f4f6fb;
+  --bg-accent: #e7eef9;
+  --surface: #ffffff;
+  --surface-muted: #f9fafc;
+  --surface-border: #dfe6f3;
+  --text: #1b2430;
+  --muted: #5b6577;
+  --accent: #1c5d99;
+  --accent-strong: #0f3d6e;
+  --accent-soft: #e0edff;
 
-  --radius-sm: 8px;
-  --radius: 12px;
-  --shadow: 0 8px 18px rgba(0, 0, 0, 0.14);
-  --shadow-soft: 0 6px 12px rgba(0, 0, 0, 0.12);
-  --container-width: 900px;
-  --gap: 16px;
+  --radius-sm: 10px;
+  --radius: 18px;
+  --shadow: 0 24px 60px rgba(15, 32, 67, 0.12);
+  --shadow-soft: 0 10px 24px rgba(15, 32, 67, 0.08);
+  --container-width: 960px;
+  --gap: 18px;
 }
 
 *, *::before, *::after { box-sizing: border-box }
 html, body { height: 100%; margin: 0 }
 body {
-  background: var(--bg);
+  background:
+    radial-gradient(circle at top left, #ffffff 0%, var(--bg) 48%),
+    radial-gradient(circle at top right, var(--bg-accent) 0%, var(--bg) 55%);
   color: var(--text);
-  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  line-height: 1.6;
+  font-family: "Plus Jakarta Sans", "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.65;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -30,9 +34,13 @@ body {
 .container { max-width: var(--container-width); margin: 0 auto; padding: 28px }
 
 .site-header {
-  padding: 16px 0;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  padding: 12px 0;
   border-bottom: 1px solid var(--surface-border);
-  background: var(--surface-muted);
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(10px);
 }
 .site-header .container {
   display: flex;
@@ -45,7 +53,7 @@ body {
   font-weight: 700;
   color: var(--accent-strong);
   text-decoration: none;
-  font-size: 1.15rem;
+  font-size: 1.2rem;
   letter-spacing: 0.01em;
 }
 .main-nav {
@@ -58,65 +66,68 @@ body {
   align-items: center;
   color: var(--muted);
   text-decoration: none;
-  padding: 8px 12px;
+  padding: 8px 14px;
   border-radius: 999px;
   border: 1px solid transparent;
-  background: rgba(255,255,255,0.04);
-  transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+  background: var(--surface-muted);
+  transition: transform 0.2s ease, background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
 }
 .main-nav a:hover {
   color: var(--accent-strong);
-  background: rgba(255,255,255,0.08);
-  border-color: rgba(255,255,255,0.25);
+  background: var(--accent-soft);
+  border-color: rgba(28, 93, 153, 0.2);
+  transform: translateY(-1px);
 }
 
 .site-main {
-  padding: 28px 0 40px;
+  padding: 32px 0 48px;
 }
 .content-card {
   background: var(--surface);
   border-radius: var(--radius);
-  box-shadow: var(--shadow-soft);
-  padding: 32px;
+  box-shadow: var(--shadow);
+  padding: 40px;
   border: 1px solid var(--surface-border);
 }
 
 .rss-banner {
-  border-left: 6px solid #f6d04d;
-  background-color: rgba(255, 255, 255, 0.16);
-  color: var(--text);
-  padding: 12px 16px;
+  border-left: 6px solid #f6b93b;
+  background-color: #fff7dd;
+  color: #4b3a14;
+  padding: 14px 18px;
   margin: 0 0 18px 0;
   display: flex;
   align-items: center;
   gap: 10px;
   font-weight: 600;
   font-size: 1.02rem;
-  border-radius: 10px;
+  border-radius: 12px;
+  box-shadow: var(--shadow-soft);
 }
 
 .rss-banner .icon {
-  color: #f6d04d;
+  color: #d35400;
   font-size: 18px;
   line-height: 1;
 }
 
 .profile { display: flex; gap: var(--gap); align-items: center }
 .avatar {
-  width: 88px;
-  height: 88px;
-  border-radius: 12px;
-  background: var(--accent);
-  flex: 0 0 88px;
+  width: 96px;
+  height: 96px;
+  border-radius: 20px;
+  background: linear-gradient(135deg, var(--accent), var(--accent-strong));
+  flex: 0 0 96px;
   box-shadow: var(--shadow-soft);
 }
 
 h1, h2, h3 {
   color: var(--text);
-  margin: 0 0 10px 0;
+  margin: 0 0 12px 0;
+  letter-spacing: -0.01em;
 }
 
-h1 { font-size: clamp(2rem, 3vw, 2.5rem) }
+h1 { font-size: clamp(2rem, 3vw, 2.75rem) }
 
 p { margin: 0 0 16px 0; color: var(--muted) }
 
@@ -133,7 +144,7 @@ a:hover {
 
 blockquote {
   margin: 20px 0;
-  padding: 14px 18px;
+  padding: 16px 20px;
   background: var(--surface-muted);
   border-left: 4px solid var(--accent);
   border-radius: var(--radius-sm);
@@ -148,10 +159,11 @@ blockquote {
 }
 
 @media (max-width: 860px) {
-  .content-card { padding: 26px }
+  .content-card { padding: 28px }
 }
 
 @media (max-width: 640px) {
+  .site-header { position: static }
   .site-header .container { align-items: flex-start }
   .main-nav {
     width: 100%;
