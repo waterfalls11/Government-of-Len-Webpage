@@ -6,14 +6,12 @@ permalink: /EMERGENCY-MESSAGE/
 
 THE LEN EMERGENCY ALERTING SYSTEM HAS ACTIVATED
 
-LEAS ALERT | (HAZARD AWARE, ALERT, ACT)
+LEAS ALERT | BRUSHFIRE AWARE
 
-(AGENCY) has issued a (HAZARD AWARE, ALERT, ACT) for the following provinces and territories:
-(Provinces and territories).
+THE OFFICE OF THE PRIME MINISTER has issued a BRUSHFIRE AWARE for the following provinces and territories:
+District of Jojo, Grizzley, Riley, Oakley and Pibble, Mainland and surroundings.
 
-This means (agency adds additional hazard information, defined by their internal policies)
-(Optional) THIS IS A LIFE THREATENING SITUATION! (agency adds additional hazard information, defined by their internal policies)
+This means that conditions for a brushfire are proable within the next 24 hours.
+You should take addtitional steps to prevent brushfires. Do not burn today. Any brushfire which does start will spread quickly, and be difficult to extingusish.
 
-(Optional more info)
-
-Government of Len | (agency one) | (agency two)
+Government of Len
