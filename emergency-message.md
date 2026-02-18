@@ -4,4 +4,6 @@ title: EMERGENCY MESSAGE
 permalink: /EMERGENCY-MESSAGE/
 ---
 
-The emergency message has expired.
+THE LEN EMERGENCY ALERTING SYSTEM HAS ACTIVATED
+
+
