@@ -14,3 +14,4 @@ We are still in the process of completing this website, so some information may 
 
 Visit your provincial or territorial government's website to find services and programs available to you.
 
+https://xdaforums.com/t/rom-sm-t510-unofficial-lineageos-18-1-for-galaxy-tab-a-10-1-2019.4060153/
