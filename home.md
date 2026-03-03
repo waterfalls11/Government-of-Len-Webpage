@@ -5,7 +5,7 @@ permalink: /
 ---
 
 
-# The Government of Len is here to ensure the well-being and safety of its citizens.
+# The Government of Len is here to ensure your well-being and safety.
 
 ## Information
 The Government of Len has undergone a restructuring following the ratification of a new Constitution. The updated Constitution has become the supreme law of Len, and a revised governmental structure is in effect. A new page explaining these changes has been published.
