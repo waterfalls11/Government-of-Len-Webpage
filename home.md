@@ -10,8 +10,8 @@ permalink: /
 ## Information
 The Government of Len has undergone a restructuring following the ratification of a new Constitution. The updated Constitution has become the supreme law of Len, and a revised governmental structure is in effect. A new page explaining these changes has been published.
 
-We are still in the process of completing this website, so some information may not be complete.
+We are still in the process of completing this website, so some information may not be present, or complete.
 
 Visit your provincial or territorial government's website to find services and programs available to you.
 
-https://xdaforums.com/t/rom-sm-t510-unofficial-lineageos-18-1-for-galaxy-tab-a-10-1-2019.4060153/
+
