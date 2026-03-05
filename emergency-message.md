@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EMERGENCY MESSAGE
-permalink: /EMERGENCY-MESSAGE/
+title: Emergency Messages & Bulletins 
+permalink: /emergencies-and-bulletins/
 ---
 This emergency message has expired.
