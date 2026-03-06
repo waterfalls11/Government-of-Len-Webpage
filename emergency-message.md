@@ -9,8 +9,9 @@ None at this time.
 # Bulletins 
 ## GOVERNMENT OF LEN SEVERE WEATHER BULLETIN 
 
-### ISSUED... 07:00 6 MARCH 2026
-### VALID... 07:00 6 MARCH 2026
+### ISSUED... 07:40 6 MARCH 2026
+### VALID... 08:00 6 MARCH 2026
+### REVISED... 07:43 6 MARCH 2026
 
 -
 
@@ -21,8 +22,8 @@ DETAILS…
 Two rounds of storms will arrive, one being in the morning hours, which will likely not be severe. The second round will arrive late tonight, into midnight or tomorrow, bringing the following hazards:
 
 More details: 
-Wind gusts present a **LEVEL 2 RISK**
-Hail presents a **LEVEL 2 RISK**
+Wind gusts present a **LEVEL 4 RISK**
+Hail presents a **LEVEL 3 RISK**
 Tornado presents a **LEVEL 2 RISK**
 
 Any thunderstorm which develops will likely produce strong winds, and carry the possibility of a tornado and hail.
