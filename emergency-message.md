@@ -4,14 +4,14 @@ title: Emergency Messages & Bulletins
 permalink: /emergencies-and-bulletins/
 ---
 # Emergency Messages
-LEAS ALERT | SEVERE STORM AWARE
+LEAS ALERT | SEVERE STORM ACT
 
-ENRL has issued a SEVERE STORM AWARE for the following provinces and territories:
+ENRL has issued a SEVERE STORM ACT for the following provinces and territories:
 DISTRICT OF JOJO, PROVICE OF GRIZZLEY, PROVINCE OF RILEY, ALLIED TERRITORIES OF OAKLEY AND PPIBBLE.
 
-This means that the prossibility of severe storms is present. If a severe storm does start forming or show signs of moving to Len, an ALERT or ACT will be issued.
+This means that the a severe storms is present.
 
-You should take steps now to minimize the impacts of severe storms, like moving outdoor furniture indoors, and planning to move your daily outdoor activites to safer indoor locations.
+You should take steps now to minimize the impacts of severe storms like seeking shelter indoors to prevent injury.
 
 Government of Len | Enviroment and Natural Resources Len
 
