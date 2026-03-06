@@ -9,21 +9,25 @@ None at this time.
 # Bulletins 
 ## GOVERNMENT OF LEN SEVERE WEATHER BULLETIN 
 
-### ISSUED... 15:41 5 MARCH 2026
-### VALID... 00:00 6 MARCH 2026
+### ISSUED... 07:00 6 MARCH 2026
+### VALID... 07:00 6 MARCH 2026
 
---
+-
 
 LEVEL OF RISK…  2
 
-DETAILS… We are certain on the following: wind gusts.
-We are uncertain on the following: timing, mode of storm, tornado and hail likelihood.
+DETAILS… 
 
-Wind gusts will be at least 20 mph (32 kph) during this storm. We will update the risk level if this baseline understanding changes. We expect this to raise the risk level to 3 by tomorrow.
+Two rounds of storms will arrive, one being in the morning hours, which will likely not be severe. The second round will arrive late tonight, into midnight or tomorrow, bringing the following hazards:
 
-We are uncertain if the cap will break. If the cap breaks, the threats we expect may change.
+More details: 
+Wind gusts present a **LEVEL 2 RISK**
+Hail presents a **LEVEL 2 RISK**
+Tornado presents a **LEVEL 2 RISK**
 
-The SPC (U.S. NOAA Storm Prediction Center) has places us under a 2% tornado risk, 5% wind risk, and 5% hail risk. These values are indicative of some risk for weather hazards, but not enough to warrant higher risk levels. 
+Any thunderstorm which develops will likely produce strong winds, and carry the possibility of a tornado and hail.
+
+Consider the following additional resource: https://forecast.weather.gov/wwamap/wwatxtget.php?cwa=LOT&wwa=hazardous%20weather%20outlook
 
 NEXT ISSUANCE… the Government of Len will issue the next severe weather bulletin at 20:00 central standard time.
 
