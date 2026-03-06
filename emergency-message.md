@@ -4,7 +4,17 @@ title: Emergency Messages & Bulletins
 permalink: /emergencies-and-bulletins/
 ---
 # Emergency Messages
-None at this time.
+LEAS ALERT | SEVERE STORM AWARE
+
+(AGENCY) has issued a SEVERE STORM AWARE for the following provinces and territories:
+DISTRICT OF JOJO, PROVICE OF GRIZZLEY, PROVINCE OF RILEY, ALLIED TERRITORIES OF OAKLEY AND PPIBBLE.
+
+This means that the prossibility of severe storms is present.
+
+You should take steps now to minimize the impacts of severe storms, like moving outdoor furniture indoors, and planning to move your daily outdoor activites to safer indoor locations.
+
+Government of Len | Enviroment and Natural Resources Len
+
 
 # Bulletins 
 ## GOVERNMENT OF LEN SEVERE WEATHER BULLETIN 
