@@ -6,7 +6,7 @@ permalink: /emergencies-and-bulletins/
 # Emergency Messages
 LEAS ALERT | SEVERE STORM AWARE
 
-(AGENCY) has issued a SEVERE STORM AWARE for the following provinces and territories:
+ENRL has issued a SEVERE STORM AWARE for the following provinces and territories:
 DISTRICT OF JOJO, PROVICE OF GRIZZLEY, PROVINCE OF RILEY, ALLIED TERRITORIES OF OAKLEY AND PPIBBLE.
 
 This means that the prossibility of severe storms is present.
