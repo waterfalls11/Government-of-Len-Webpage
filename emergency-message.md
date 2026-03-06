@@ -9,7 +9,8 @@ None at this time.
 # Bulletins 
 ## GOVERNMENT OF LEN SEVERE WEATHER BULLETIN 
 
-### ISSUED… 15:41 5 MARCH 2026
+### ISSUED... 15:41 5 MARCH 2026
+### VALID... 00:00 6 MARCH 2026
 
 --
 
