@@ -4,43 +4,10 @@ title: Emergency Messages & Bulletins
 permalink: /emergencies-and-bulletins/
 ---
 # Emergency Messages
-LEAS ALERT | SEVERE STORM ACT
-
-ENRL has issued a SEVERE STORM ACT for the following provinces and territories:
-DISTRICT OF JOJO, PROVICE OF GRIZZLEY, PROVINCE OF RILEY, ALLIED TERRITORIES OF OAKLEY AND PPIBBLE.
-
-This means that the a severe storms is present.
-
-You should take steps now to minimize the impacts of severe storms like seeking shelter indoors to prevent injury.
-
-Government of Len | Enviroment and Natural Resources Len
-
+Expired.
 
 # Bulletins 
-## GOVERNMENT OF LEN SEVERE WEATHER BULLETIN 
-
-### ISSUED... 07:40 6 MARCH 2026
-### VALID... 08:00 6 MARCH 2026
-### REVISED... 07:43 6 MARCH 2026
-
--
-
-LEVEL OF RISK…  3
-
-DETAILS… 
-
-Severe thunderstorms will occur. The risks for individual threats are detailed here:
-
-More details: 
-Wind gusts present a **LEVEL 3 RISK**
-Hail presents a **LEVEL 3 RISK**
-Tornado presents a **LEVEL 2 RISK**
-
-Any thunderstorm which develops will likely produce strong winds, and carry the possibility of a tornado and hail.
-
-Consider the following additional resource: https://forecast.weather.gov/wwamap/wwatxtget.php?cwa=LOT&wwa=hazardous%20weather%20outlook
-
-NEXT ISSUANCE… the Government of Len will issue the next severe weather bulletin at 20:00 central standard time.
+Expired.
 
 # Information - Severe Weather Bulletins
 1 - Low Risk
