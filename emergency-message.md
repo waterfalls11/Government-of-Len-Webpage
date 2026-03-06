@@ -15,14 +15,14 @@ None at this time.
 
 -
 
-LEVEL OF RISK…  2
+LEVEL OF RISK…  3
 
 DETAILS… 
 
-Two rounds of storms will arrive, one being in the morning hours, which will likely not be severe. The second round will arrive late tonight, into midnight or tomorrow, bringing the following hazards:
+Severe thunderstorms will occur. The risks for individual threats are detailed here:
 
 More details: 
-Wind gusts present a **LEVEL 4 RISK**
+Wind gusts present a **LEVEL 3 RISK**
 Hail presents a **LEVEL 3 RISK**
 Tornado presents a **LEVEL 2 RISK**
 
