@@ -9,7 +9,7 @@ LEAS ALERT | SEVERE STORM AWARE
 ENRL has issued a SEVERE STORM AWARE for the following provinces and territories:
 DISTRICT OF JOJO, PROVICE OF GRIZZLEY, PROVINCE OF RILEY, ALLIED TERRITORIES OF OAKLEY AND PPIBBLE.
 
-This means that the prossibility of severe storms is present.
+This means that the prossibility of severe storms is present. If a severe storm does start forming or show signs of moving to Len, an ALERT or ACT will be issued.
 
 You should take steps now to minimize the impacts of severe storms, like moving outdoor furniture indoors, and planning to move your daily outdoor activites to safer indoor locations.
 
