@@ -28,18 +28,18 @@ NEXT ISSUANCE… the Government of Len will issue the next severe weather bullet
 
 # Information - Severe Weather Bulletins
 1 - Low Risk
-Risk for severe weather exists, but not enough to cause a noticeable disturbance to day to day life.
+* Risk for severe weather exists, but not enough to cause a noticeable disturbance to day to day life.
 
 2 -  Some Risk
-Risk for severe weather exists, and could produce disturbance to day to day life. 
+* Risk for severe weather exists, and could produce disturbance to day to day life. 
 
 3 - Considerable Risk
-Severe weather events will occur and disrupt day to day life.
+* Severe weather events will occur and disrupt day to day life.
 
 4 - Considerably Large Risk
-Severe weather will occur and cause a major day to day disruption and risk to life and or property exists,
+* Severe weather will occur and cause a major day to day disruption and risk to life and or property exists,
   
 5 - Extraordinary Risk
-Severe weather will occur and cause extreme threats to life and property.
+* Severe weather will occur and cause extreme threats to life and property.
 
 
