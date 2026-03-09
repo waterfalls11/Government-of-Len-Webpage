@@ -9,21 +9,23 @@ Expired.
 # Bulletins 
 ## GOVERNMENT OF LEN (ENVIRONMENT & NATURAL RESOURCES LEN/ENRL) SEVERE WEATHER BULLETIN
 
-### ISSUED... SUNDAY, 8 MARCH 2026
+### ISSUED... SUNDAY, 10 MARCH 2026 @ 09:06
 ### VALID... TUESDAY, 11 MARCH 2026
-### REVISED...  No revisions have yet been made
+### REVISED...  No revisions yet
 
-3 day outlook
+2 day outlook
 
 — —
 
-LEVEL OF RISK… 2
+LEVEL OF RISK… 3
 
 DETAILS… 
-We are not certain on the location and timing of multiple factors that will affect the accuracy of the forecast. We can generally say that the Midwestern region will receive at least a level 3 threat, but we are unsure whether it will extend northward enough to impact Len. The hazards that will exist regardless of location are tornado, hail, and wind. The intensities will become more apparent as model findings become more aligned with each other.
+We are uncertain on the exact location of the storm, but we can say that all modes of severe weather are plausible. The location of a front is not yet obvious, which inhibits our understanding of the northward extent of the tornado risk, but all other modes of severe weather are possible. Tornado risk is at a 3 because guidance suggests that tornadoes may occur, and we are erring on the side of caution.
 
 More details:
-The risk level does not warrant more details.
+Tornado risk: **3**
+Wind risk: **2**
+Hail risk: **3**
 
 NEXT ISSUANCE…
 ENRL will issue the next severe weather forecast at 15:00 on the issue date.
