@@ -6,7 +6,7 @@ permalink: /emergency-message/info/
 
 # Emergency Message Information
 
-## There are 3 levels to the Len Emergency Alerting System (LEAS). 
+There are 3 levels to the Len Emergency Alerting System (LEAS). 
 
 * Aware
 This is like a watch. We are aware of a threat, but it is not yet imminent. Be aware and take action to reduce impacts of the threat.
