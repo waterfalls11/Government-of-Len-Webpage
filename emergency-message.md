@@ -4,6 +4,21 @@ title: Emergency Messages & Bulletins
 permalink: /emergencies-and-bulletins/
 ---
 # Emergency Messages
+**ACTIVE SEVERE ALERT**
+LEAS ALERT | SEVERE STORM ALERT
+
+E&NRL has issued a SEVERE STORM ALERT for the following provinces and territories:
+MAINLAND…
+JOJO, GRIZZLY, RILEY
+
+This means that a severe storm has formed and is currently approaching Len, but is not imminently threatening us.
+
+You should take steps now to minimize the impact of any severe storm which does impact Len. More information is available in the Aware issued earlier.
+
+Government of Len | E&NRL
+
+-- -- -- -- --
+
 LEAS ALERT | TORNADO AWARE EHA
 
 ENVIRONMENT & NATURAL RESOURCES LEN has issued a TORNADO AWARE EHA for the following provinces and territories:
