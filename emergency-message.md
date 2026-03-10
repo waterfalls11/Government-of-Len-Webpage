@@ -5,6 +5,7 @@ permalink: /emergencies-and-bulletins/
 ---
 # Emergency Messages
 **ACTIVE SEVERE ALERT**
+
 LEAS ALERT | SEVERE STORM ALERT
 
 E&NRL has issued a SEVERE STORM ALERT for the following provinces and territories:
