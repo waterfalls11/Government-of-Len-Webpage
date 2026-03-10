@@ -9,7 +9,7 @@ Expired.
 # Bulletins 
 ## GOVERNMENT OF LEN (ENVIRONMENT & NATURAL RESOURCES LEN/ENRL) SEVERE WEATHER BULLETIN
 
-### ISSUED... SUNDAY, 11 MARCH 2026 @ 06:12
+### ISSUED... SUNDAY, 11 MARCH 2026 @ 09:06
 ### VALID... TUESDAY, 11 MARCH 2026
 ### REVISED...  No revisions yet
 
@@ -17,13 +17,13 @@ Expired.
 
 — —
 
-LEVEL OF RISK… 3
+LEVEL OF RISK… 3 (considering 4)
 
 DETAILS… 
-We are uncertain on the exact location of the storm, but we can say that all modes of severe weather are plausible. The location of a front is not yet obvious, which inhibits our understanding of the northward extent of the tornado risk, but all other modes of severe weather are possible. Guidance sugests that any tornado which forms will have a higher potential to reach up to EF2 than other storms we have seen. The same is true for hail, any hail wich falls has a higher potential to reach up to 2 inches (5cm) than other storms we have seen.
+Certainty on most factors has greatly increased. The threat that tornadoes poses is now much larger than previously anticipated. The tornado risk is at a reasonable max of EF3 if a storm develops according to the SPC. We anticipate any storm that devleops becoming supercellular, meaning a larger risk for tornadoes, and hail. The SPC's guidance alligns with our findings, giving us an ENH (enhanced) risk level. Len is also under a CIG (conditional intensity group) 2 for tornadoes, and CIG 1 for hail. The Government of Len is currently considering increaing the risk level to a LEVEL 4. Stay weather aware, and have multiple ways to recive emergency alerts. Visit [the alerts info page](https://govlen.gay/emergency-message/info/) to learn more about the alerts E&NRL (Env. & Natural Resources Len) issues.
 
 More details:
-Tornado risk: **3**
+Tornado risk: **4**
 Wind risk: **2**
 Hail risk: **3**
 
