@@ -20,9 +20,10 @@ Same day outlook
 — —
 
 LEVEL OF RISK… 4
+A THREAT TO LIFE AND OR PROPERTY EXISTS. HAVE MULTIPLE WAYS TO RECIEVE WARNINGS. BE VIGILANT ABOUT RAPIDLY CHANGING WEATHER CONDITIONS.
 
 DETAILS… 
-Certainty on most factors has greatly increased. The threat that tornadoes poses is now much larger than previously anticipated. The tornado risk is at a reasonable max of EF3 if a storm develops according to the SPC. We anticipate any storm that devleops becoming supercellular, meaning a larger risk for tornadoes, and hail. The SPC's guidance alligns with our findings, giving us an ENH (enhanced) risk level. Len is also under a CIG (conditional intensity group) 2 for tornadoes, and CIG 1 for hail. The Government of Len is currently considering increaing the risk level to a LEVEL 4. Stay weather aware, and have multiple ways to recive emergency alerts. Visit [the alerts info page](https://govlen.gay/emergency-message/info/) to learn more about the alerts E&NRL (Env. & Natural Resources Len) issues.
+Certainty on most factors has greatly increased. The threat that tornadoes poses is now much larger than previously anticipated. The tornado risk is at a reasonable max of EF3 if a storm develops according to the SPC. We anticipate any storm that devleops becoming supercellular, meaning a larger risk for tornadoes, and hail. The SPC's guidance alligns with our findings, giving us an ENH (enhanced) risk level. Len is also under a CIG (conditional intensity group) 2 for tornadoes, and CIG 1 for hail. Stay weather aware, and have multiple ways to recive emergency alerts. Visit [the alerts info page](https://govlen.gay/emergency-message/info/) to learn more about the alerts E&NRL (Env. & Natural Resources Len) issues.
 
 More details:
 Tornado risk: **4**
