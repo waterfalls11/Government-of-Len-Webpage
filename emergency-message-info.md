@@ -15,7 +15,7 @@ This means a threat is imminent, but not yet occurring. This is most often used 
 * ACT
 This is like a warning. The threat is occurring. Take immediate action to protect yourself.
 
-An alert may posses an EHA (extremely hazard awareness) tag if a person may be severely injured if they don’t heed the warning. The following criteria must also be met: 
+An alert may posses an EHA (extreme hazard awareness) tag if a person may be severely injured if they don’t heed the warning. The following criteria must also be met: 
 * has a time to impact that is less than an hour,
 * and a markedly large threat to life or property.
 
