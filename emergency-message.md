@@ -4,7 +4,21 @@ title: Emergency Messages & Bulletins
 permalink: /emergencies-and-bulletins/
 ---
 # Emergency Messages
-Expired.
+LEAS ALERT | TORNADO AWARE EHA
+
+ENVIRONMENT & NATURAL RESOURCES LEN has issued a TORNADO AWARE EHA for the following provinces and territories:
+MAINLAND… Riley, Jojo, Grizzly
+OUTLAND… ALLIED O&P
+
+This means that the conditions for a tornado are present. Severe storms likely will enter Len, and potentially produce tornadoes.
+You should take steps now to minimize the impacts of any storms, such as moving outdoor furniture indoors, and securing outdoor objects. If an ACT message is issued, know where you should shelter, and inform occupants of the building you are in of the shelter location as well.
+
+This is an Extreme Hazard Awareness alert. Be advised that any tornado which forms may become capable of EF3 damage (Unanchored objects and homes swept away, well built structures have collapsed external and some internal walls). Be prepared to seek immediate shelter should you become aware of a tornado. Consider postponing or canceling outdoor activities, and planning to be in a sturdy building with a basement. 
+
+ENRL |  Government of Len
+
+Visit https://govlen.gay/emergencies-and-bulletins/ for more info.
+
 
 # Bulletins 
 ## GOVERNMENT OF LEN (ENVIRONMENT & NATURAL RESOURCES LEN/ENRL) SEVERE WEATHER BULLETIN
