@@ -9,7 +9,7 @@ Expired.
 # Bulletins 
 ## GOVERNMENT OF LEN (ENVIRONMENT & NATURAL RESOURCES LEN/ENRL) SEVERE WEATHER BULLETIN
 
-### ISSUED... SUNDAY, 10 MARCH 2026 @ 09:06
+### ISSUED... SUNDAY, 11 MARCH 2026 @ 06:12
 ### VALID... TUESDAY, 11 MARCH 2026
 ### REVISED...  No revisions yet
 
@@ -20,7 +20,7 @@ Expired.
 LEVEL OF RISK… 3
 
 DETAILS… 
-We are uncertain on the exact location of the storm, but we can say that all modes of severe weather are plausible. The location of a front is not yet obvious, which inhibits our understanding of the northward extent of the tornado risk, but all other modes of severe weather are possible. Tornado risk is at a 3 because guidance suggests that tornadoes may occur, and we are erring on the side of caution.
+We are uncertain on the exact location of the storm, but we can say that all modes of severe weather are plausible. The location of a front is not yet obvious, which inhibits our understanding of the northward extent of the tornado risk, but all other modes of severe weather are possible. Guidance sugests that any tornado which forms will have a higher potential to reach up to EF2 than other storms we have seen. The same is true for hail, any hail wich falls has a higher potential to reach up to 2 inches (5cm) than other storms we have seen.
 
 More details:
 Tornado risk: **3**
@@ -28,7 +28,7 @@ Wind risk: **2**
 Hail risk: **3**
 
 NEXT ISSUANCE…
-ENRL will issue the next severe weather forecast at 15:00 on the issue date.
+ENRL will issue the next severe weather forecast at 10:00 on the issue date.
 
 # Information - Severe Weather Bulletins
 1 - Low Risk
