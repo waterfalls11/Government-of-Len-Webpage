@@ -4,8 +4,10 @@ title: Emergency Messages & Bulletins
 permalink: /emergencies-and-bulletins/
 ---
 # Emergency Messages
-ISSUED 15 MARCH 10:00
+ISSUED 15 MARCH 17:30
 LEAS ALERT | SEVERE STORM ACT
+
+TORNADOES ARE POSSIBLE WITH THIS STORM.
 
 E&NRL has issued a SEVERE STORM ACT for the following provinces and territories:
 MAINLAND…
@@ -14,6 +16,8 @@ JOJO, GRIZZLY, RILEY
 This means that a severe storm has formed and is currently or will soon Len. Seek indoor shelter now, as this storm may cause hazards to those who are outside.
 
 This storm will bring gusts of wind in excess of 65 MPH (105 KPH). This will cause roof and siding damage, and may cause tree limbs to break. Take steps now to prevent injuries from this storm.
+
+TAKE COVER NOW! TORNADOES ARE POSSIBLE WITH THIS STORM.
 
 Government of Len | E&NRL
 
