@@ -19,7 +19,21 @@ This storm will bring gusts of wind in excess of 65 MPH (105 KPH). This will cau
 
 TAKE COVER NOW! TORNADOES ARE POSSIBLE WITH THIS STORM.
 
+-------------
+
 Government of Len | E&NRL
+
+LEAS ALERT | SEVERE STORM AWARE
+
+E&NRL has issued a SEVERE STORM AWARE for the following provinces and territories:
+ALL
+
+This means that a severe storm is possible given current atmospheric conditions.
+
+Take steps to reduce the impacts of any storms which do develop.
+
+Government of Len | E&NRL
+
 
 
 # Bulletins 
