@@ -4,38 +4,13 @@ title: Emergency Messages & Bulletins
 permalink: /emergencies-and-bulletins/
 ---
 # Emergency Messages
-ISSUED 15 MARCH 17:30
-LEAS ALERT | SEVERE STORM ALERT
 
-** THIS ALERT HAS BEEN DOWNGRADED **
-
-E&NRL has issued a SEVERE STORM ALERT for the following provinces and territories:
-MAINLAND…
-JOJO, GRIZZLY, RILEY
-
-This means that a severe storm has formed and is may enter Len. Take steps now to reduce the impacts of any storm which develops.
-
-ENRL
-
--------------
-
-Government of Len | E&NRL
-
-LEAS ALERT | SEVERE STORM AWARE
-
-E&NRL has issued a SEVERE STORM AWARE for the following provinces and territories:
-ALL
-
-This means that a severe storm is possible given current atmospheric conditions.
-
-Take steps to reduce the impacts of any storms which do develop.
-
-Government of Len | E&NRL
-
-
+The LEAS is not active.
 
 # Bulletins 
-expired
+
+No bulletins are active.
+
 # Information - Severe Weather Bulletins
 1 - Low Risk
 * Risk for severe weather exists, but not enough to cause a noticeable disturbance to day to day life.
