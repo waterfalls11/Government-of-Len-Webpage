@@ -5,7 +5,7 @@ permalink: /emergencies-and-bulletins/
 ---
 # Emergency Messages
 
-uh oopsies we lauch dogshitmissile at ikea shark land when liam is
+uh oopsies we lauch FUCKERBITCH HOE (C) GOVLEN.GAY 2026
 
 # Bulletins 
 
