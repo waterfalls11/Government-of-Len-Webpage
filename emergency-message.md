@@ -5,7 +5,7 @@ permalink: /emergencies-and-bulletins/
 ---
 # Emergency Messages
 
-The LEAS is not active.
+uh oopsies we lauch dogshitmissile at ikea shark land when liam is
 
 # Bulletins 
 
