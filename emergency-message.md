@@ -9,7 +9,7 @@ uh oopsies we lauch FUCKERBITCH HOE (C) GOVLEN.GAY 2026
 
 # Bulletins 
 
-No bulletins are active.
+terrorists are targeting SLUTLAND cuz they are
 
 # Information - Severe Weather Bulletins
 1 - Low Risk
