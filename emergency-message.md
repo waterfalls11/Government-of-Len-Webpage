@@ -5,11 +5,11 @@ permalink: /emergencies-and-bulletins/
 ---
 # Emergency Messages
 
-uh oopsies we lauch FUCKERBITCH HOE (C) GOVLEN.GAY 2026
+LEAS is not active at this time.
 
 # Bulletins 
 
-terrorists are targeting SLUTLAND cuz they are
+There are no bulletins at this time.
 
 # Information - Severe Weather Bulletins
 1 - Low Risk
