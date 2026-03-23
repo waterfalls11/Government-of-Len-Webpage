@@ -9,7 +9,24 @@ LEAS is not active at this time.
 
 # Bulletins 
 
-There are no bulletins at this time.
+## GOVERNMENT OF LEN SEVERE WEATHER BULLETIN - 4 DAY OUTLOOK
+
+### ISSUED... 23 MARCH 2026 @ 11:35
+### VALID... 26 MARCH 2026 @ 00:00
+### REVISED... NOT REVISED YET - FIRST ISSUANCE
+
+— —
+
+LEVEL OF RISK…  2, SOME RISK
+
+DETAILS… 
+On Thursday in Len and surrounding areas, atmospheric conditions will favor severe weather. Model guidance suggests that storms will develop, but convection will be inhibited by a cap. The storm mode, positioning of the threat areas, exact threats, and the intensities of storms that do develop are uncertain. Current model guidance also suggests that the severe weather risk will be concentrated north of Len and its territories.
+
+
+GRANULAR RISK LEVELS…
+None available
+
+NEXT ISSUANCE… 24 MAR 2026 @ 07:00 - 12:00 CDT
 
 # Information - Severe Weather Bulletins
 1 - Low Risk
