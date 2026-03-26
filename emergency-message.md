@@ -5,7 +5,16 @@ permalink: /emergencies-and-bulletins/
 ---
 # Emergency Messages
 
-LEAS is not active at this time.
+LEAS ALERT | SEVERE STORM AWARE
+
+ENRL has issued a SEVERE STORM AWARE for the following provinces and territories:
+Riley, District of Jojo, Grizzly and Allied Territories of O*P.
+
+This means that the conditions for severe storms to develop and impact Len are present. Take steps now to limit the impacts of severe storms which do develop. This does not mean a severe storm is imminent, but it means to be vigilant of rapidly changing weather conditions.
+
+Environment and Natural Resources Len have issued this alert because the National Weather Service (NWS) warned Len of the same hazard. Internal policies require ENRL to issue alerts regarding hazards warned by the NWS.
+
+Government of Len | Environment & Natural Resources Len
 
 # Bulletins 
 
