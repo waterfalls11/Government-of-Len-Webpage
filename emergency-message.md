@@ -9,10 +9,10 @@ LEAS is not active at this time.
 
 # Bulletins 
 
-## GOVERNMENT OF LEN SEVERE WEATHER BULLETIN - 2 DAY OUTLOOK
+## GOVERNMENT OF LEN SEVERE WEATHER BULLETIN
 
-### ISSUED... 25 MARCH 2026 @ 10:48
-### VALID... 26 MARCH 2026 @ 00:00
+### ISSUED... 26 MARCH 2026 @ 09:00
+### VALID... 26 MARCH 2026 @ 10:00
 ### REVISED... NOT REVISED YET - FIRST ISSUANCE
 
 — —
@@ -20,15 +20,14 @@ LEAS is not active at this time.
 LEVEL OF RISK…  3 CONSIDERABLE RISK
 
 DETAILS… 
-On Thursday in Len and surrounding areas, atmospheric conditions will favor severe weather. Model guidance suggests that storms will develop, but a cap may be in place. Some models suggest the cap breaking, others say it will not. We are uncertain on whether storm mode will be discrete or QLCS, though the majority of models suggest discrete, favoring wind and hail threats. Exact threats, and the intensities of storms that do develop are uncertain. Some models say that Len will not be impacted by any severe weather, but most that do are experimental.
+Today, there is a risk of severe weather. The northward extent of the risk area is now more clear, but still uncertain. Model guidance is not clear on whether the northward extent of the threat area will be into Len. A SEVERE STORM AWARE or TORNADO AWARE is unlikely today, but still remain vigilant for rapidly changing weather conditions, as models arent always perfect. The tornado and wind hazards aren't as high as they are south of us, but hail is a concern which could reach 2 inches (5 cm) or more. Storms are expected to impact land anywhere from 2 PM to 5 PM (14:00 to 17:00)
 
-
-GRANULAR RISK LEVELS…
-TORNADO: LEVEL 3
-WIND: LEVEL 3
+GRANULAR RISK LEVELS:
+TORNADO: LEVEL 1
+WIND: LEVEL 1
 HAIL: LEVEL 3
 
-NEXT ISSUANCE… 26 MAR 2026 @ 10:00 - 12:00 CDT
+NEXT ISSUANCE… 26 MAR 2026 @ 13:00 - 14:00 CDT
 
 # Information - Severe Weather Bulletins
 1 - Low Risk
