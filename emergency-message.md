@@ -5,57 +5,12 @@ permalink: /emergencies-and-bulletins/
 ---
 # Emergency Messages
 
-LEAS ALERT | TORNADO ALERT EHA
-
-ENRL has issued a TORNADO ALERT for the following provinces and territories:
-MAINLAND LEN… CAPITAL (JOJO DISTRICT), ALLIED TERRITORIES OF OAKLEY AND PIBBLE, GRIZZLY, RILEY
-
-This means that a storm which is capable of producing a tornado is moving towards Len. Take immediate steps to reduce impacts of any storms which move into Len, and be alert for the potential of a damaging tornado.
-
-The severe thunderstorm we have wind gust in excess of 70 mph (117 kph), and hail in excess of 1 inch (2,5cm). This is an EXTREME HAZARD ALERT. This storm has a considerable damage threat, and you should move indoors at the soonest possible opportunity to prevent injuries from hail, wind, and lightning.
-
-
-Government of Len | ENRL
-
-https://govlen.gay/emergencies-and-bulletins/
-
+LEAS is not active.
 
 # Bulletins 
 
-## GOVERNMENT OF LEN SEVERE WEATHER BULLETIN - SAME DAY OUTLOOK
+No Bulletin
 
-### ISSUED... 02 APRIL 2026 @ 08:00
-### VALID... 02  APRIL 2026 @ 09:00
-### REVISED... REVISION 1 - 20 APRIL 26 @ 13:07
-
-REVISED... TIMING
-
-— —
-
-LEVEL OF RISK…  3, CONSIDERABLE RISK
-
-DETAILS… 
-Today, the atmosphere will favor the development of severe weather. The U.S. Storm Predition Center has issued a level 3/5 (ENHANCED) risk for Len and its surroundings. The tornado threat will be concentrated more to the west of Len, but if tornadoes do develop, they could become strong. Models have agreed that the most CAPE will remain to the west of Len, but other factors will cause the threat of severe weather to continue as deintensification occurs. Reconvection appears unlikely as most models agree, but the storm system which will impact Len appears to have the capability to reatain intensity. STP values indicate that even if CAPE is not high, storms which move into the area will have the capability to produce torandoes, some strong, as corroborated by the SPC. Overall, the wind risk is highest of the hazards, followed by tornado, followed by hail. Again, tornadoes which do develop will have the chance to become strong.
-
-TIMING...
-
-A round of storms will arrive from 2 PM (14:00) to 5 PM (17:00), but the most severe round will arrive from 8 PM (20:00) to midnight
-
-A SEVERE STORM AWARE is likely for tonight.
-
-
-GRANULAR RISK LEVELS…
-TORNADO - 2
-WIND - 3
-HAIL - 2
-
-NEXT ISSUANCE… 24 MAR 2026 @ 07:00 - 12:00 CDT
-
-# Information - Severe Weather Bulletins
-1 - Low Risk
-* Risk for severe weather exists, but not enough to cause a noticeable disturbance to day to day life.
-
-2 -  Some Risk
 * Risk for severe weather exists, and could produce disturbance to day to day life. 
 
 3 - Considerable Risk
