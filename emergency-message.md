@@ -5,7 +5,20 @@ permalink: /emergencies-and-bulletins/
 ---
 # Emergency Messages
 
-LEAS is not active.
+LEAS ALERT | TORNADO ALERT EHA
+
+ENRL has issued a TORNADO ALERT for the following provinces and territories:
+MAINLAND LEN… CAPITAL (JOJO DISTRICT), ALLIED TERRITORIES OF OAKLEY AND PIBBLE, GRIZZLY, RILEY
+
+This means that a storm which is capable of producing a tornado is moving towards Len. Take immediate steps to reduce impacts of any storms which move into Len, and be alert for the potential of a damaging tornado.
+
+The severe thunderstorm we have wind gust in excess of 70 mph (117 kph), and hail in excess of 1 inch (2,5cm). This is an EXTREME HAZARD ALERT. This storm has a considerable damage threat, and you should move indoors at the soonest possible opportunity to prevent injuries from hail, wind, and lightning.
+
+
+Government of Len | ENRL
+
+https://govlen.gay/emergencies-and-bulletins/
+
 
 # Bulletins 
 
