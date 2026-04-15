@@ -5,7 +5,18 @@ permalink: /emergencies-and-bulletins/
 ---
 # Emergency Messages
 
-No Message 
+LEAS ALERT | TORNADO AWARE
+ENRL has issued a TORNADO AWARE for the following provinces and territories:
+MAINLAND… District of Jojo, Grizzly, Riley
+TERRITORY… Allied territories of Oakley and Pibble, and the Territory of Snowball
+
+This means that the conditions for tornadoes to develop exist and will likely be tapped into by storms which develop and impact Len. You should take steps now to minimize the impacts of any storm which does develop.
+
+Remember, a TORNADO AWARE carries the same meaning as a Tornado Watch. 
+
+Some storms may develop but not cause a tornado threat. Stay informed using NOAA Weather Radio, news media, weather.gov/chicago, and https://govlen.gay/emergencies-and-bulletins/.
+
+Government of Len | ENRL
 
 # Bulletins 
 
