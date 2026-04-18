@@ -5,6 +5,15 @@ permalink: /emergencies-and-bulletins/
 ---
 # Emergency Messages
 
+https://govlen.gay/emergencies-and-bulletins/
+LEAS ALERT | SEVERE STORM ACT 
+
+ENRL has issued a SEVERE STORM ACT the following provinces and territories:
+MAINLAND LEN… (DISTRICT OF JOJO, RILEY, GRIZZLY)
+TERRITORY… (ALLIED TERRITORIES OF OAKLY AND PIBBLE, TERRITORY OF SNOWBALL
+
+A storm is in Len. This storm will proceed winds up to 70 MPH and hail around quarter sized. Take cover now. THIS STORM IS CAPABLE AND HAS PRODUCED TORNADOES. BE AWARE OF RAPIDLY CHANGING WEATHER CONDITIONS!
+
 LEAS ALERT | SEVERE STORM ALERT 
 
 ENRL has issued a SEVERE STORM ALERT for the following provinces and territories:
