@@ -5,6 +5,17 @@ permalink: /emergencies-and-bulletins/
 ---
 # Emergency Messages
 
+LEAS ALERT | SEVERE STORM ALERT 
+
+ENRL has issued a SEVERE STORM ALERT for the following provinces and territories:
+MAINLAND LEN… (DISTRICT OF JOJO, RILEY, GRIZZLY)
+TERRITORY… (ALLIED TERRITORIES OF OAKLY AND PIBBLE, TERRITORY OF SNOWBALL
+
+A storm capable of severe impacts is approaching Len. This storm is also capable of producing a tornado. Take steps now to minimize impacts of severe weather which does impact Len.
+
+- ENRL
+
+
 LEAS ALERT | TORNADO AWARE
 ENRL has issued a TORNADO AWARE for the following provinces and territories:
 MAINLAND… District of Jojo, Grizzly, Riley
