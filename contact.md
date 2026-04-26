@@ -4,10 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-# Contact us via these methods: 
-
-## Phone Number
-+1 (708) 730-2397
+# Contact us 
 
 ## Email
 generalmail@govlen.gay
