@@ -5,7 +5,8 @@ permalink: /
 ---
 
 
-## This is the offical webpage for the Government of Len. If you aren't sure what Len is, then you might not be in the right place.
+## This is the offical webpage for the Government of Len. 
+### If you aren't sure what Len is, then you might not be in the right place.
 
 We are still in the process of completing this website, so some information may not be present, or complete.
 
