@@ -5,8 +5,8 @@ permalink: /emergencies-and-bulletins/
 ---
 # Emergency Messages
 
-No Message
+The Len Emergency Alerting System is not active.
 
 # Bulletins 
 
-No Bulletin
+No bulletin has been issued.
