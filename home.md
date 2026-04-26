@@ -13,6 +13,4 @@ Visit your provincial or territorial government's website to find services and p
 
 We are an independent community which legislates for itself and upholds each other. We think of ourselves as another level of government, like a municipal government, but smaller. For more information, contact us with the information on our contact page.
 
-##### If you aren't sure what Len is, then you might not be in the right place.
-
-
+*If you aren't sure what Len is, then you might not be in the right place. Check that you entered the right URL. If you were looking for your provinces or territories webpage, it may be available on another page on this website.*
