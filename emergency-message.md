@@ -24,8 +24,20 @@ The potential for Len to be directly impacted is not yet clear, but we will keep
 
 Government of Len | ENRL
 
+LEAS ALERT | TORNADO AWARE EHA
 
+ENRL has issued a TORNADO ALERT EHA for the following provinces and territories:
+Grizzly, Riley, Jojo, Oakley, and Pibble, Snowball.
 
+Any storm which forms will likely produce a tornado in the current environment.
+
+A tornado aware means that the conditions for tornadoes exists, but not necessarily that a tornado is on the ground.
+
+Take IMMEDIATE steps to prevent hazard to life. Prepare to, at short notice, go to a safe location. Charge phones, and have multiple ways to receive warnings. 
+
+Check media.
+
+Government of Len | ENRL
 # Bulletins 
 
 LEAS Capabilities are Limited:
