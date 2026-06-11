@@ -5,6 +5,13 @@ permalink: /emergencies-and-bulletins/
 ---
 # Emergency Messages
 
+LEAS ACT | TORNADO AWARE
+
+ENRL has issued a TORNADO AWARE for the following provinces and territories:
+Oakley and Pibble, and Snowball.
+
+Rotation in a storm in this area exists. A tornado is not on the ground, but could be at any moment. You do not need to take shelter now, but if a tornado warning is issued, you should take action. This is a precationary message.
+
 LEAS ALERT | TORNADO AWARE
 
 ENRL has issued a TORNADO AWARE EHA for the following provinces and territories:
