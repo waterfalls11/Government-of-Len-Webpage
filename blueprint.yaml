@@ -25,6 +25,34 @@ blueprint:
         select:
           mode: list
           options:
+            - label: unknown 1
+              value: "1"
+            - label: unknown 2
+              value: "2"
+            - label: unknown 3
+              value: "3"
+            - label: unknown 4
+              value: "4"
+            - label: unknown 5
+              value: "5"
+            - label: unknown 6
+              value: "6"
+            - label: unknown 7
+              value: "7"
+            - label: unknown 8
+              value: "8"
+            - label: unknown 10
+              value: "10"
+            - label: unknown 11
+              value: "11"
+            - label: unknown 12
+              value: "12"
+            - label: unknown 16
+              value: "16"
+            - label: unknown 17
+              value: "17"
+            - label: unknown 18
+              value: "18"
             - label: "*Alarm* Carbon Monoxide"
               value: "15"
             - label: "*Alarm* Fire"
@@ -36,7 +64,57 @@ blueprint:
             - label: Water Detected 
               value: "21"
             - label: Low Temperature Detected 
-              value: "20"              
+              value: "20"  
+            - label: unknown 21
+              value: "21"
+            - label: unknown 22
+              value: "22"
+            - label: unknown 23
+              value: "23"
+            - label: unknown 24
+              value: "24"
+            - label: unknown 25
+              value: "25"
+            - label: unknown 26
+              value: "26"
+            - label: unknown 27
+              value: "27"
+            - label: unknown 28
+              value: "28"
+            - label: unknown 29
+              value: "29"
+            - label: unknown 30
+              value: "30"
+            - label: unknown 31
+              value: "31"
+            - label: unknown 32
+              value: "32"
+            - label: unknown 33
+              value: "33"
+            - label: unknown 34
+              value: "34"
+            - label: unknown 35
+              value: "35"
+            - label: unknown 36
+              value: "36"
+            - label: unknown 37
+              value: "37"
+            - label: unknown 38
+              value: "38"
+            - label: unknown 39
+              value: "39"
+            - label: unknown 40
+              value: "40"
+            - label: unknown 41
+              value: "41"
+            - label: unknown 42
+              value: "42"
+            - label: unknown 43
+              value: "43"
+            - label: unknown 44
+              value: "44"
+            - label: unknown 45
+              value: "45"
             - label: Ding Dong
               value: "96"
             - label: Echoing Bing Bong
@@ -49,6 +127,20 @@ blueprint:
               value: "100"
             - label: Wind Chimes
               value: "98"
+            - label: unknown 95
+              value: "95"
+            - label: unknown 94
+              value: "94"          
+            - label: unknown 93
+              value: "93"
+            - label: unknown 92
+              value: "92"
+            - label: unknown 91
+              value: "91"
+            - label: unknown 90
+              value: "90"
+              
+            
     sound_volume:
       name: Keypad Volume *
       description: Choose the volume to play the sound.
@@ -63,7 +155,7 @@ blueprint:
 
 mode: single
 
-sequence:
+se37uence:
   - service: zwave_js.set_value
     target:
       device_id: !input keypad
