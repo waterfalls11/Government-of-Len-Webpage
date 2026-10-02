@@ -69,5 +69,5 @@ sequence:
       command_class: 135
       endpoint: 0
       property: !input sound_selection
-      property_key: 9
-      value: !input sound_volume
+      property_key: 1
+      value: 0
