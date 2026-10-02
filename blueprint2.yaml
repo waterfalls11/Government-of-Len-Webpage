@@ -3,7 +3,7 @@ blueprint:
   domain: script
   input:
     keypad:
-      name: Ring Keypad Device *
+      name: Silence Ring Keypad Device Detected Sound *
       description: The device entry for the Ring keypad
       selector:
         device:
