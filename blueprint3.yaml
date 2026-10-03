@@ -28,15 +28,15 @@ blueprint:
               value: "18"
 
     sound_volume:
-      name: Length *
-      description: Choose the lenth of the delay.
-      default: 30
+      name: volume *
+      description: volume of thing.
+      default: 100
       selector:
         number:
-          min: 10
-          max: 120
+          min: 1
+          max: 100
           step: 5
-          unit_of_measurement: 'seconds'
+          unit_of_measurement: '%'
           mode: slider
 
 mode: single
