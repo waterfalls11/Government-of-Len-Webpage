@@ -1,7 +1,9 @@
 blueprint:
   name: Ring Keypad v2 Sounds, ZwaveJS
-  description: >
-  Ring Keypad v2 Sounds
+  description:
+  
+  # Ring Keypad v2 Sounds
+  
   domain: script
   input:
     keypad:
