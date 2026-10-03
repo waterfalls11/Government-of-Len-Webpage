@@ -22,22 +22,21 @@ blueprint:
         select:
           mode: list
           options:
-            - label: unknown 93
-              value: "93"
-            - label: unknown 94
-              value: "94"
-            - label: unknown 95
-              value: "95"
+            - label: entry delay
+              value: "17"
+            - label: exit delay
+              value: "18"
+
     sound_volume:
-      name: Keypad Volume *
-      description: Choose the volume to play the sound.
-      default: 50
+      name: Length *
+      description: Choose the lenth of the delay.
+      default: 30
       selector:
         number:
-          min: 0
-          max: 100
+          min: 10
+          max: 120
           step: 5
-          unit_of_measurement: '%'
+          unit_of_measurement: 's'
           mode: slider
 
 mode: single
