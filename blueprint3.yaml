@@ -1,0 +1,54 @@
+blueprint:
+  name: Ring Keypad v2 Sounds, exit and entry delay
+  domain: script
+  input:
+    keypad:
+      name: Ring Keypad Device *
+      description: The device entry for the Ring keypad
+      selector:
+        device:
+          manufacturer: Ring
+          integration: zwave_js
+          multiple: true
+    sound_selection:
+      name: Keypad Sound *
+      description: > 
+        Choose the sound to play. 
+        
+        
+      
+      default: "96"
+      selector:
+        select:
+          mode: list
+          options:
+            - label: unknown 93
+              value: "93"
+            - label: unknown 94
+              value: "94"
+            - label: unknown 95
+              value: "95"
+    sound_volume:
+      name: Keypad Volume *
+      description: Choose the volume to play the sound.
+      default: 50
+      selector:
+        number:
+          min: 0
+          max: 100
+          step: 5
+          unit_of_measurement: '%'
+          mode: slider
+
+mode: single
+
+sequence:
+  - service: zwave_js.set_value
+    target:
+      device_id: !input keypad
+    data:
+      command_class: 135
+      endpoint: 0
+      property: !input sound_selection
+      property_key: 9
+      value: !input sound_volume
