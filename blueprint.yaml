@@ -47,11 +47,11 @@ blueprint:
               value: "100"
             - label: Wind Chimes
               value: "98"
-            - label: unknown 90
-              value: "90"
-            - label: unknown 91
-              value: "91"
-            - label: unknown 92
+            - label: Disarmed (volume controls brightness of status led)
+              value: "2"
+            - label: Home and Armed (volume controls brightness of status led)
+              value: "10"
+            - label: Away and Armed (volume controls brightness of status led)
               value: "92"
             - label: unknown 93
               value: "93"
