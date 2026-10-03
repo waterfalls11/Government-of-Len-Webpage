@@ -52,7 +52,7 @@ blueprint:
             - label: Home and Armed (volume controls brightness of status led)
               value: "10"
             - label: Away and Armed (volume controls brightness of status led)
-              value: "92"
+              value: "11"
             - label: unknown 93
               value: "93"
             - label: unknown 94
