@@ -31,9 +31,9 @@ blueprint:
               value: "19"
             - label: "*Alarm* Police"
               value: "13"
-            - label: Water Detected 
+            - label: Water Detected (you must send a specific command to stop this. my other blueprpint has this command)
               value: "21"
-            - label: Low Temperature Detected 
+            - label: Low Temperature Detected (you must send a specific command to stop this. my other blueprpint has this command)
               value: "20"              
             - label: Ding Dong
               value: "96"
